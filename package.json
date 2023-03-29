@@ -1,12 +1,16 @@
 {
   "name": "tauri-he3",
   "private": true,
-  "version": "0.0.0",
+  "version": "0.0.1",
   "type": "module",
   "scripts": {
-    "tauri": "tauri"
+    "tauri": "tauri",
+    "updater": "node scripts/updater.mjs",
+    "release": "node scripts/release.mjs"
   },
   "devDependencies": {
-    "@tauri-apps/cli": "^1.2.2"
+    "@actions/github": "^5.1.1",
+    "@tauri-apps/cli": "^1.2.2",
+    "node-fetch": "^3.3.1"
   }
 }
