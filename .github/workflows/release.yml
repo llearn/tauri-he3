@@ -64,10 +64,7 @@ jobs:
         with:
           # Optional version of wasm-pack to install(eg. 'v0.9.1', 'latest')
           version: v0.9.1
-
-      - name: Install rsw
-        run: cargo install rsw
-
+          
       - name: Get yarn cache directory path
         id: yarn-cache-dir-path
         run: echo "::set-output name=dir::$(yarn config get cacheFolder)"
