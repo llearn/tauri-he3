@@ -2,11 +2,11 @@
   "build": {
     "devPath": "../he3-dist",
     "distDir": "../he3-dist",
-    "withGlobalTauri": false
+    "withGlobalTauri": true
   },
   "package": {
-    "productName": "tauri-he3",
-    "version": "0.0.0"
+    "productName": "工具箱",
+    "version": "../package.json"
   },
   "tauri": {
     "allowlist": {
@@ -25,7 +25,7 @@
         "icons/icon.icns",
         "icons/icon.ico"
       ],
-      "identifier": "com.ccm.he3",
+      "identifier": "com.chiefclouds.he3",
       "targets": "all"
     },
     "security": {
@@ -35,8 +35,11 @@
       "active": true,
       "dialog": true,
       "endpoints": [
-        "https://releases.myapp.com/{{target}}/{{current_version}}"
+        "https://llearn.github.io/tauri-he3/install.json"
       ],
+      "windows": {
+        "installMode": "passive"
+      },
       "pubkey": "dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IDlCQjg2QkY3N0REMTkyNzAKUldSd2t0Rjk5MnU0bTdVdUkzMi9lY1h5TXAxUUtyK201dVJGbExybjJ5aVF2ejNXaFQvODhuSkYK"
     },
     "windows": [
