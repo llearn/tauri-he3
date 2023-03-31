@@ -30,12 +30,8 @@ jobs:
 
           gh release create "$tag" \
               --repo="$GITHUB_REPOSITORY" \
-              --title="${GITHUB_REPOSITORY#*/} ${tag#v}" \
-              --generate-notes="${{ steps.get_version.outputs.VERSION }}"
-        with:
-          tag_name: '${{ steps.get_version.outputs.VERSION }}'
-          release_name: 'toolbox ${{ steps.get_version.outputs.VERSION }}'
-          body: 'See the assets to download this version and install.'
+              --title="toolbox ${{ steps.get_version.outputs.VERSION }}" \
+              --generate-notes="'See the assets to download this version and install. ${{ steps.get_version.outputs.VERSION }}"
 
   build-tauri:
     needs: create-release
