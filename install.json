@@ -1,0 +1,35 @@
+{
+  "version": "v0.0.9",
+  "notes": "这是最新的v0.0.9版本",
+  "pub_date": "2023-04-03T06:49:55.569Z",
+  "platforms": {
+    "win64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSd2t0Rjk5MnU0bThzZEtTTlcrc3IvVG9sWkc3VWhwVmxGTFl4SXdpY2Jwd3ZSUk53YVVDZlFVaFpTYi9QcUtIMTBwT2tVTTRsbDN3T1ozSmZMN1FJZDZabkVkR3hCWFFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjgwNTA0NTYzCWZpbGU6dG9vbGJveF8wLjAuOV94NjRfZW4tVVMubXNpLnppcApiSGh0ancydmhnMGhzWHFlcWZjYlpKTW05QXZ6V21pdVl0WERlYnMwcUhwekMyejNGNlllOWhKVWlmN1ovSG8xSFRkUlNJVTAwUnFHN2FRdHZwY1lCQT09Cg==",
+      "url": "https://github.com/llearn/tauri-he3/releases/download/v0.0.9/toolbox_0.0.9_x64_en-US.msi.zip"
+    },
+    "linux": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSd2t0Rjk5MnU0bXovL0haVHlYclppRUdyazQwMkVqblp1UVhMV1lSSlpxM0dTNnpXekxwVTFZNFZjYnhFMlpobytES3NXVm5uQklRSFE1SU5hSjArbS80ZFNQczc2eUFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjgwNTA0NTIzCWZpbGU6dG9vbGJveF8wLjAuOV9hbWQ2NC5BcHBJbWFnZS50YXIuZ3oKK0k3TE9uTEw1a0ZGc3dlV2R1UVJ0ZCtKaWthZml1VnE1bU01bEQ3YnQyZHlGZ016RVg3ODNXdThUVExaSmtkSUNPV3czRGV1OTJEWG9aektHRjIyQXc9PQo=",
+      "url": "https://github.com/llearn/tauri-he3/releases/download/v0.0.9/toolbox_0.0.9_amd64.AppImage.tar.gz"
+    },
+    "darwin": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSd2t0Rjk5MnU0bTZYcGkwMXpRa0xQNDhaMUx1Tk5SOFVGMWJwVWFZdmRnMU1TaVNhd21NbzVNRTBORUdCU25TalFGSXk5VTN3Szd3RE0vZFlDcGV6ckx0dVZQcXh3b3d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjgwNTA0NDMxCWZpbGU6dG9vbGJveC5hcHAudGFyLmd6Cm1FWm9oV29wZUZxNWtCZE5UcVZRMHczNWJjdUNFMmw1WTErRnNZY2ZrK3Fia25wNnM4ajNhdHFrRHNaUWJGbTMxMWx3Vi90Y3dpSmVRMXlTaHNTYURnPT0K",
+      "url": "https://github.com/llearn/tauri-he3/releases/download/v0.0.9/toolbox.app.tar.gz"
+    },
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSd2t0Rjk5MnU0bTZYcGkwMXpRa0xQNDhaMUx1Tk5SOFVGMWJwVWFZdmRnMU1TaVNhd21NbzVNRTBORUdCU25TalFGSXk5VTN3Szd3RE0vZFlDcGV6ckx0dVZQcXh3b3d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjgwNTA0NDMxCWZpbGU6dG9vbGJveC5hcHAudGFyLmd6Cm1FWm9oV29wZUZxNWtCZE5UcVZRMHczNWJjdUNFMmw1WTErRnNZY2ZrK3Fia25wNnM4ajNhdHFrRHNaUWJGbTMxMWx3Vi90Y3dpSmVRMXlTaHNTYURnPT0K",
+      "url": "https://github.com/llearn/tauri-he3/releases/download/v0.0.9/toolbox.app.tar.gz"
+    },
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSd2t0Rjk5MnU0bTZYcGkwMXpRa0xQNDhaMUx1Tk5SOFVGMWJwVWFZdmRnMU1TaVNhd21NbzVNRTBORUdCU25TalFGSXk5VTN3Szd3RE0vZFlDcGV6ckx0dVZQcXh3b3d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjgwNTA0NDMxCWZpbGU6dG9vbGJveC5hcHAudGFyLmd6Cm1FWm9oV29wZUZxNWtCZE5UcVZRMHczNWJjdUNFMmw1WTErRnNZY2ZrK3Fia25wNnM4ajNhdHFrRHNaUWJGbTMxMWx3Vi90Y3dpSmVRMXlTaHNTYURnPT0K",
+      "url": "https://github.com/llearn/tauri-he3/releases/download/v0.0.9/toolbox.app.tar.gz"
+    },
+    "linux-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSd2t0Rjk5MnU0bXovL0haVHlYclppRUdyazQwMkVqblp1UVhMV1lSSlpxM0dTNnpXekxwVTFZNFZjYnhFMlpobytES3NXVm5uQklRSFE1SU5hSjArbS80ZFNQczc2eUFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjgwNTA0NTIzCWZpbGU6dG9vbGJveF8wLjAuOV9hbWQ2NC5BcHBJbWFnZS50YXIuZ3oKK0k3TE9uTEw1a0ZGc3dlV2R1UVJ0ZCtKaWthZml1VnE1bU01bEQ3YnQyZHlGZ016RVg3ODNXdThUVExaSmtkSUNPV3czRGV1OTJEWG9aektHRjIyQXc9PQo=",
+      "url": "https://github.com/llearn/tauri-he3/releases/download/v0.0.9/toolbox_0.0.9_amd64.AppImage.tar.gz"
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSd2t0Rjk5MnU0bThzZEtTTlcrc3IvVG9sWkc3VWhwVmxGTFl4SXdpY2Jwd3ZSUk53YVVDZlFVaFpTYi9QcUtIMTBwT2tVTTRsbDN3T1ozSmZMN1FJZDZabkVkR3hCWFFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjgwNTA0NTYzCWZpbGU6dG9vbGJveF8wLjAuOV94NjRfZW4tVVMubXNpLnppcApiSGh0ancydmhnMGhzWHFlcWZjYlpKTW05QXZ6V21pdVl0WERlYnMwcUhwekMyejNGNlllOWhKVWlmN1ovSG8xSFRkUlNJVTAwUnFHN2FRdHZwY1lCQT09Cg==",
+      "url": "https://github.com/llearn/tauri-he3/releases/download/v0.0.9/toolbox_0.0.9_x64_en-US.msi.zip"
+    }
+  }
+}
